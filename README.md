@@ -32,7 +32,7 @@
 ### 🚀 Featured Projects
 Here are some of the projects I'm proud of:
 
-1. **Project 1**: [Expense Tracker](https://github.com/erayushs/Expense-Tracker)   
+1. **Project 1**: [Medify: Book Medical Appointments](https://github.com/erayushs/Medify)   
    - Developed a single-page expense tracker app using React with wallet and expense management.  
    - Integrated dynamic pie chart and bar graph for category-wise expense visualization. 
 
