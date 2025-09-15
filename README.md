@@ -83,9 +83,3 @@ Here are some of the projects I'm proud of:
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=erayushs&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
----
