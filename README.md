@@ -81,13 +81,3 @@ Here are some of the projects I'm proud of:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-###
-
-<br clear="both">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
-
-
