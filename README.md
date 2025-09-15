@@ -10,7 +10,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Advanced React and Web3 Technologies**.
 - 💡 Passionate about building **user-friendly, responsive, and visually stunning web applications**.
 - 🎯 Always striving to write **clean, efficient, and maintainable code**.
 - ⚡ Fun fact: I love **anime, gaming, and exploring new tech trends** in my free time.
