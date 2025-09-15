@@ -70,13 +70,12 @@ Here are some of the projects I'm proud of:
    - Built with: Vanilla Js. 
 
 ---
-<!-- 
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erayushs&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erayushs&theme=radical" alt="GitHub Streak" />
 </p>
--->
 
 ---
 
@@ -92,12 +91,11 @@ Here are some of the projects I'm proud of:
 </p>
 
 ---
-<!-- 
+
 ### 💻 Coding Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erayushs&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
-
 
 ---
 
