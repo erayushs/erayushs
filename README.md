@@ -104,4 +104,8 @@ Here are some of the projects I'm proud of:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erayushs&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 -->
