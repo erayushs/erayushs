@@ -106,6 +106,12 @@ Here are some of the projects I'm proud of:
 </p>
 
 
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 -->
