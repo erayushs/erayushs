@@ -73,7 +73,7 @@ Here are some of the projects I'm proud of:
 
 ### 🌟 Let's Connect!
 <div>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=erayushs&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" /></div>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=erayushs&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/erayushsingh/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -81,3 +81,4 @@ Here are some of the projects I'm proud of:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+</div>
